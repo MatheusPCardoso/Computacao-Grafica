@@ -1,6 +1,4 @@
-# Título do projeto
-
-Paraboloide de Rotação
+# Paraboloide de Rotação
 
 ## 🚀 Começando
 

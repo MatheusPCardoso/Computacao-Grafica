@@ -1,6 +1,4 @@
-# Título do projeto
-
-Esfera
+# Esfera
 
 ## 🚀 Começando
 

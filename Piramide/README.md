@@ -1,6 +1,4 @@
-# Título do projeto
-
-Pirâmide
+# Pirâmide
 
 ## 🚀 Começando
 

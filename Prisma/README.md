@@ -1,6 +1,4 @@
-# Título do projeto
-
-Prisma
+# Prisma
 
 ## 🚀 Começando
 

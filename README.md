@@ -1,6 +1,4 @@
-# Título do projeto
-
-Computação Gráfica
+# Entrega 1 - Computação Gráfica
 
 ## 🚀 Começando
 

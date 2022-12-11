@@ -1,6 +1,4 @@
-# Título do projeto
-
-Curva de Bézier de terceiro grau.
+# Curva de Bézier de terceiro grau
 
 ## 🚀 Começando
 
