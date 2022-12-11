@@ -10,3 +10,7 @@ Para rodar esse arquivo python, é necessário ter previamente instalado o Pytho
 
 Python
 OpenGL
+
+## ⚙️ Executando
+
+python ./prisma.py
